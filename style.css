@@ -5,7 +5,6 @@ body {
 .top {
     font-size: 100px; text-align: center;
 }
-
-.navbar {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center;
+.nav-linkactive {
+    font-size: 35px;
 }
