@@ -1,4 +1,11 @@
 body {
-    background-color: lightblue; font-size: 100px; text-align: center; color: white;
+    background-color: lightblue;  color: white;
 }
 
+.top {
+    font-size: 100px; text-align: center;
+}
+
+.navbar {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center;
+}
