@@ -18,5 +18,9 @@ body {
 }
 
 .kitty {
- text-align: center; margin-top: 200px; justify-content: center;
+ text-align: center; justify-content: center;
+}
+
+.contact {
+    justify-content: center; text-align: center; 
 }
