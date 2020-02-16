@@ -8,5 +8,15 @@ body {
 .nav {
     font-size: 35px;
 }
+.hawaii {
+    align-self: auto; margin-left: 300px; width: 600px;
+}
 
 
+.col-lg-6 {
+    color:navy; font-weight: bold; 
+}
+
+.kitty {
+ text-align: center; margin-top: 200px; justify-content: center;
+}
